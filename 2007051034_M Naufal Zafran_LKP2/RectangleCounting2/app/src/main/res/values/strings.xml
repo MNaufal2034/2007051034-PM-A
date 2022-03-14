@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RectangleCounting</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="lebar">lebar</string>
+    <string name="panjang">panjang</string>
+</resources>
