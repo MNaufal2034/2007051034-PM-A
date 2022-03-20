@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyView</string>
+    <string name="harga">Rp. 500.000</string>
+    <string name="tokek">Tokek Corak Terang</string>
+    <string name="deskripsi">Kondisi Tokek Sehat Fresh .Untuk yang mengerti Fungsinya dan bagi penghobby hewan reptil, berkhasiat untuk obat tradisional.</string>
+    <string name="tipe">Tipe</string>
+    <string name="tokek_rumahan">Tokek Rumahan</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="betina">Betina</string>
+    <string name="umur">Umur</string>
+    <string name="bulan">7 Bulan</string>
+    <string name="ciri_khas">Ciri Khas</string>
+    <string name="teks">Mempunyai warna corak badan yang terang/mencolok, dan mempunyai bintik bintik di badannya.</string>
+    <string name="owner">Owner</string>
+    <string name="naufal">M Naufal Zafran</string>
+    <string name="buy">buy</string>
+
+
+</resources>
